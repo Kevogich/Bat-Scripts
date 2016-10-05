@@ -9,5 +9,5 @@ Needs Admin Privileges
 
 Edit SSID (WiFi Name) and Key (Password) to your prefered
 
-Defaults : SSID :facepunch
-              :Password : facepunch
+Defaults  SSID :facepunch
+              Password : facepunch
